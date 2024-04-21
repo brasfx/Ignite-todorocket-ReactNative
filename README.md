@@ -1,7 +1,7 @@
 # Ignite-todorocket-ReactNative
 
 ## Sobre
-O desafio consisitaia construir do zero um app de tarefas (todo list), além de reforçar os conceitos vistos em aula e de aprender novos, na prática.
+O desafio consistiu en construir do zero um app de tarefas (todo list), além de reforçar os conceitos vistos em aula e de aprender novos, na prática.
 
 ## Tecnologias
 - React Native
